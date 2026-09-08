@@ -1,6 +1,6 @@
-# Olá, eu sou o Pedro Bozan 👋
+# Olá! 👋
 
-💻 Analista de Integração na **Unimed Blumenau**, atuando na integração entre sistemas com foco em banco de dados Oracle e APIs REST.
+💻 Analista de Integração, atuando na integração entre sistemas com foco em banco de dados Oracle e APIs REST.
 
 📍 Brasil &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/pedro-bozan/)
 
