@@ -79,7 +79,3 @@ Um projeto clone do TabNews e que está sendo desenvolvido principalmente em **J
 [![Estatísticas públicas do GitHub de Pedro Bozan](https://github-stats-extended.vercel.app/api?username=PedroBozan&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&locale=pt-br&title_color=59E1FF&icon_color=9BF6BD&text_color=C9D1D9&bg_color=0A111E)](https://github.com/PedroBozan?tab=repositories)
 
 [Ir aos repositórios →](https://github.com/PedroBozan?tab=repositories)
-
-## ✅ 200 OK - Você chegou ao fim
-
-**Vamos conversar, clique <a href="https://www.linkedin.com/in/pedro-bozan/">aqui ↗</a>**
