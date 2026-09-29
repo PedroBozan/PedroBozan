@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/banner-static.png">
-  <img src="./assets/banner.gif" width="1200" alt="Pedro Bozan — Analista de Integração. Código que faz a ponte: Oracle, APIs REST e aplicações web. Banner com terminal e fluxo de dados animados.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="banner-static.png">
+  <img src="banner.gif" width="1200" alt="Pedro Bozan — Analista de Integração. Código que faz a ponte: Oracle, APIs REST e aplicações web. Banner com terminal e fluxo de dados animados.">
 </picture>
 
 <h1 align="center">Opa, sou o Pedro! 👋</h1>
